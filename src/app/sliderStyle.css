@@ -1,0 +1,11 @@
+.swiper-button-disabled {
+  display: none !important;
+}
+.swiper-button-prev,
+.swiper-button-next {
+  top: 36px;
+}
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  font-size: 20px;
+}
